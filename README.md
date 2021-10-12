@@ -1,1 +1,1 @@
-# odin_project
+Practicing and learning webdev
